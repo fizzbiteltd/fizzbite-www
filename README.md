@@ -9,6 +9,8 @@ It is a static site (plain HTML, CSS and JS) with no build step.
 | File          | Purpose                                                        |
 | ------------- | -------------------------------------------------------------- |
 | `index.html`  | Page content and sections                                      |
+| `clocking.html` | Staff guide to clocking in and out (FizzBite Rota)           |
+| `privacy.html` | Privacy notice, including clocking location data              |
 | `styles.css`  | All styles, including light/dark themes and responsive layout  |
 | `script.js`   | Phone mockups, "See it in your colours" builder, nav, contact form |
 | `favicon.svg` | Site icon                                                      |
